@@ -5,4 +5,4 @@ config SHIELD_MDACTYL_LEFT
   def_bool $(shields_list_contains,mdactyl_left)
 
 config SHIELD_MDACTYL_RIGHT
-  def_bool $(shields_list_contain,mdactyl_right)
+  def_bool $(shields_list_contains,mdactyl_right)
