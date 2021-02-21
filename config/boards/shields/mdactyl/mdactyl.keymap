@@ -68,8 +68,8 @@
 //                                |     |     |   |     |     |
 
                         bindings = <
-   BTCLR     BT1     BT2      BT3      BT4      BT5                            &trans    &trans   &trans    &trans    &trans    &trans
-   &trans     &trans  &trans   &trans   &trans   &trans                         &trans    &trans   &trans    &trans    &trans    &kp PIPE
+   BTCLR      BT1     BT2      BT3      BT4      BT5                            &trans    &trans   &trans    &trans    &trans    &trans
+   &trans     &trans  &trans   &trans   &trans   &trans                         &trans    &trans   &trans    &trans    &trans    &PIPE
    &trans     &trans  &trans   &trans   &trans   &trans                         &kp LEFT  &kp DOWN &kp UP    &kp RIGHT &kp COLON &kp DQT 
    &trans     &trans  &trans   &trans   &trans   &trans                         &trans    &trans   &kp LT    &kp GT    &kp QMARK &trans
                       &trans   &kp INT2 &kp LBRC &kp UNDER &kp MINUS   &kp PLUS &kp EQUAL &kp RBRC &trans &trans
