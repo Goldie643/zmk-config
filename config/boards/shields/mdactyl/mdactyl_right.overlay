@@ -7,7 +7,7 @@
 #include "mdactyl.dtsi"
 
 &default_transform {
-    row-offset = <6>;
+    col-offset = <6>;
 };
 
 &kscan0 {
