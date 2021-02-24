@@ -4,8 +4,8 @@ manifest:
       url-base: https://github.com/CrossR
   projects:
     - name: zmk
-      remote: CrossR/RowOffset 
-      revision: main
+      remote: zmkfirmware 
+      revision: CrossR/RowOffset 
       import: app/west.yml
   self:
     path: config
