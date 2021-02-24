@@ -1,10 +1,10 @@
 manifest:
   remotes:
     - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
+      url-base: https://github.com/CrossR
   projects:
     - name: zmk
-      remote: zmkfirmware
+      remote: CrossR/RowOffset 
       revision: main
       import: app/west.yml
   self:
