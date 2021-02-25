@@ -37,13 +37,5 @@ RC(0,3) RC(1,3) RC(2,3) RC(3,3) RC(4,3) RC(5,3)                  RC(6,3)  RC(7,3
         label = "KSCAN";
 
         diode-direction = "col2row";
-        col-gpios
-            = <&pro_micro_d  9  (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>
-            , <&pro_micro_d  8  (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>
-            , <&pro_micro_d  7  (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>
-            , <&pro_micro_d  6  (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>
-            , <&pro_micro_d  5  (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>
-            , <&pro_micro_d  4  (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>
-            ;
     };
 };
